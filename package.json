@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "tsc interview.ts && node interview.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6"
+  }
+}
